@@ -6,6 +6,7 @@ To Do List app made in React JS.
 
 <h2>How to run: </h2>
 <h3>1.) Clone repo<br>
-2.) Install npm<br>
-3.) Navigate to repo in terminal<br>
-4.) Use the command "npm start"</h3>
+2.) Navigate to repo in terminal<br>
+3.) Use the command "npm install"<br>
+4.) Use the command "npm start" to run at localhost:3000<br>
+5.) Use the command "npm run build" for production</h3>
