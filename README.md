@@ -4,7 +4,7 @@ To Do List app made in React JS.
 ![](https://github.com/JackRossProjects/React-Todo-List/blob/master/todoTest.png)
 <br><br>
 
-<h2>In order to run: </h2>
+<h2>How to run: </h2>
 <h3>1.) Clone repo<br>
 2.) Install npm<br>
 3.) Navigate to repo in terminal<br>
