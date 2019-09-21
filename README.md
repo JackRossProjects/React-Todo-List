@@ -9,4 +9,4 @@ To Do List app made in React JS.
 2.) Navigate to repo in terminal<br>
 3.) Use the command "npm install"<br>
 4.) Use the command "npm start" to run at localhost:3000<br>
-5.) Use the command "npm run build" for production</h3>
+4 1/2.) Use the command "npm run build" for production</h3>
