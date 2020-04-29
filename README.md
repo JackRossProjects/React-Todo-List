@@ -10,3 +10,7 @@ To Do List app made in React JS.
 3.) Use the command "npm install"<br>
 4.) Use the command "npm start" to run at localhost:3000<br>
 Optional) Use the command "npm run build" for production</h3>
+
+<br><br>
+
+<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
